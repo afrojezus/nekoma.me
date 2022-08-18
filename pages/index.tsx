@@ -41,8 +41,8 @@ const Home: NextPage = () => {
   return (
     <>
       <Head>
-        <title>neko-shorter</title>
-        <meta name="description" content="Quick and dirty url shortener" />
+        <title>nekoma.me</title>
+        <meta name="description" content="URL shortener for people who really, really, like cats" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Stack my="xl">
