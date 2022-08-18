@@ -40,7 +40,7 @@ function MyApp({ Component, pageProps }: AppProps) {
                 <Group>
                   <Text size="xs">Created with ❤️ by afroj</Text>
                   <Text component="a" size="xs"
-                    href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+                    href="https://github.com/afrojezus/nekoma.me"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
