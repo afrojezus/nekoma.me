@@ -65,7 +65,7 @@ const Home: NextPage = () => {
           <Text>shorten your urls with a cute one</Text>
         </Center>
       </Stack>
-      <Box component="form" sx={{ flex: 1 }} onSubmit={submit}>
+      <Box autoComplete="off" component="form" sx={{ flex: 1 }} onSubmit={submit}>
         <Group>
           <TextInput disabled={loading} sx={{ flex: 1 }} {...form.getInputProps("link")} />
           <Button disabled={loading} type="submit">Nekofy</Button>
